@@ -1,0 +1,8 @@
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Currently logged in as: tjacob (tjacob-university-of-pittsburgh). Use `wandb login --relogin` to force relogin
+wandb: Tracking run with wandb version 0.18.7
+wandb: Run data is saved locally in /net/dali/home/uttam/thj19/10708-Project/GeoLDM/shell_scripts/wandb/run-20241129_182701-6sgafzlk
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run geoldm_qm9_2
+wandb: ⭐️ View project at https://wandb.ai/tjacob-university-of-pittsburgh/e3_diffusion_qm9
+wandb: 🚀 View run at https://wandb.ai/tjacob-university-of-pittsburgh/e3_diffusion_qm9/runs/6sgafzlk
