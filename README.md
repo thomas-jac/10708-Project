@@ -48,4 +48,4 @@ To visualize some molecules:
 
 ## Acknowledgements
 
-This repo is built upon the previous work [GeoLDM](https://github.com/MinkaiXu/GeoLDM) [EDM]([https://arxiv.org/abs/2203.17003](https://github.com/ehoogeboom/e3_diffusion_for_molecules)). Thanks to the authors for their great work!
+This repo is built upon the previous work [GeoLDM](https://github.com/MinkaiXu/GeoLDM) and [EDM](https://github.com/ehoogeboom/e3_diffusion_for_molecules). Thanks to the authors for their great work!
