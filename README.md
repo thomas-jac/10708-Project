@@ -1,7 +1,7 @@
-# GeoLDM: Geometric Latent Diffusion Models for 3D Molecule Generation
+# Markov Chain Monte Carlo for Unconditional Molecule Generation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/MinkaiXu/GeoLDM/blob/main/LICENSE)
-[![ArXiv](http://img.shields.io/badge/cs.LG-arXiv%3A2305.01140-B31B1B.svg)](https://arxiv.org/abs/2305.01140)
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/MinkaiXu/GeoLDM/blob/main/LICENSE)
+[![ArXiv](http://img.shields.io/badge/cs.LG-arXiv%3A2305.01140-B31B1B.svg)](https://arxiv.org/abs/2305.01140) -->
 
 <!-- [[Code](https://github.com/MinkaiXu/GeoLDM)] -->
 
